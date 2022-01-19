@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948859583099",
+    "project_id": "authapp-cd6c1",
+    "storage_bucket": "authapp-cd6c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948859583099:android:0192bed45744a1c9d3c0de",
+        "android_client_info": {
+          "package_name": "com.example.authApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948859583099-6504v1uue2p50kaaq82pdu9mbr03ji0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKxZ0V1a55PiYPse_X5djh9tYEQEs1824"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948859583099-6504v1uue2p50kaaq82pdu9mbr03ji0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
